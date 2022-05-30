@@ -2,7 +2,18 @@
 
 __all__ = ["index", "modules", "custom_doc_links", "git_url"]
 
-index = {"say_hello": "00_core.ipynb"}
+index = {"Fecha": "00_core.ipynb",
+         "fecha": "00_core.ipynb",
+         "Cadena": "00_core.ipynb",
+         "cadena": "00_core.ipynb",
+         "Entero": "00_core.ipynb",
+         "entero": "00_core.ipynb",
+         "EnteroSigno": "00_core.ipynb",
+         "entero_signo": "00_core.ipynb",
+         "Flotante": "00_core.ipynb",
+         "flotante": "00_core.ipynb",
+         "FlotanteSigno": "00_core.ipynb",
+         "flotante_signo": "00_core.ipynb"}
 
 modules = ["core.py"]
 
